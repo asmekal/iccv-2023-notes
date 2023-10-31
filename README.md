@@ -103,7 +103,7 @@ Recommended order is
 - [Main Insights](#main-insights)
 - [Workshops](#workshops) and [Keynotes](#keynotes) - relatively short sections but they can provide some high-level interesting ideas
 - [Paper description format](#paper-description-format)
-- Check papers sections you're interested in (see in [table of contents](#papers-by-topic))
+- Check papers sections you're interested in (see in [table of contents](#table-of-contents))
 - Maybe search for papers I rated highest: 9/10, 8/10 (usually they have comment on why)
 - ~~Do your own summary, star the repo, subscribe~~
 
