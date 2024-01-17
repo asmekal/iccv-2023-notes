@@ -300,7 +300,7 @@ Deepmind Research
 
 ### Domain adaptation
 
-- [*] [9/10] (domain adaptation (for style) on few images w/o finetuning: sample from style-specific noise distribution! simple per-pixel mean/stds used in their method. results look impressive and work on just a few images) [Diffusion in Style](https://openaccess.thecvf.com/content/ICCV2023/html/Everaert_Diffusion_in_Style_ICCV_2023_paper.html)
+- [*] [7/10] (domain adaptation (for style) on few images: sample from style-specific noise distribution (vae projection mean/std for mean and covariance of diffusion noise instead of N(0, I)) -> finetune diffusion from that noise distribution for ~1k steps. results look good, paper says 50-200 imgs work, poster was ~10-15) [Diffusion in Style](https://openaccess.thecvf.com/content/ICCV2023/html/Everaert_Diffusion_in_Style_ICCV_2023_paper.html)
 
 ![image](https://github.com/asmekal/iccv-2023-notes/assets/14358106/b5c5973e-40e0-43b9-83f9-2cbcb94d3d2c)
 
